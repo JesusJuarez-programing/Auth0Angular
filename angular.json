@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "authapp1"
+    }
+  },
+  "defaultProject": "authapp1",
+  "cli": {
+    "analytics": false
+  }
 }
